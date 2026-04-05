@@ -1,1 +1,1 @@
-sh 'docker run -d -p 8080:8080 --name lab4-final lab4-final'
+git branch: 'main', url: 'https://github.com/Guldariya-git/devops-lab4.git'
